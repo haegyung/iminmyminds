@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <map version="3.0" htmlParse="false">
+     <column id="1" colour="9FDFBF">3</column>
+     <column id="2" colour="9FDFBF">5</column>
+     <column id="3" colour="9FDFBF">7</column>
+     <column id="4" colour="9FDFBF">9</column>
+     <column id="5" colour="9FDFBF">9</column>
+     <column id="6" colour="9FDFBF">10</column>
+     <column id="7" colour="9FDFBF">13</column>
+     <column id="8" colour="9FDFBF">10</column>
+     <column id="9" colour="9FDFBF">9</column>
+     <column id="10" colour="9FDFBF">8</column>
+     <column id="11" colour="9FDFBF">7</column>
+     <column id="12" colour="9FDFBF">5</column>
+     <column id="13" colour="9FDFBF">3</column>
+     <item id="qSortHeaderNumbers">1,2,3,4,5,6,7,8,9,10,11,12,13</item>
+     <item id="qSortHeaders">1,2,3,4,5,6,7,8,9,10,11,12,13</item>
+     <item id="qSortPattern">3,5,7,9,9,10,13,10,9,8,7,5,3</item>
+     <item id="columnHeadersColorsArray">#d8ffd8,#c4ffc4,#b1ffb1,#9dff9d,#89ff89,#3bff3b,#e0e0e0,#e0e0e0,#e0e0e0,#e0e0e0,#e0e0e0,#e0e0e0,#e0e0e0</item>
+     <item id="columnColorsArray">whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke,whitesmoke</item>
+   </map>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="3.0" htmlParse="true">
+;
+
+        <!-- MULTI-PURPOSE MODALS -->
+        <item id="stepCompleteMessage">지금 스텝을 완료했습니다. {{{b}}} 파란색 버튼을 클릭해서 계속해주세요 {{{/b}}} 스크린 한쪽부터 해주세요.</item>
+        <item id="logInFirst">먼저 로그인해주세요.</item>
+
+        <!-- FOOTER -->
+        <item id="fontSizeText">글자 크기</item>
+        <item id="cardHeightText">카드 높이</item>
+        <item id="btnHelp">도움말</item>
+        <item id="btnNext">계속</item>
+
+        <!-- LANDING SCREEN -->
+        <item id="landingHead">내 마음속 나</item>
+        <item id="welcomeText">{{{h2}}}내 마음속 나{{{/h2}}}{{{br/}}}{{{br}}}
+{{{p}}}내 마음속에 나는 어떤 문장하고 닮았나요?{{{/p}}}</item>
+
+        <!-- LANDING -> ACCESS CONTROL - only displayed if access is restricted -->
+        <item id="accessCodeText">Access Code</item>
+        <item id="accessInputText">엑세스코드를 적어주세요</item>
+        <item id="loginSubmitButtonText">로그인</item>
+        <item id="loginPartIdText">이름을 적어주세요</item>
+        <item id="accessCodeWarning">등록되지 않은 코드입니다.</item>
+        <item id="partIdWarning">등록되지 않은 이름입니다.</item>
+        <item id="loginHeaderText">로그인하기</item>
+        <item id="loginWelcomeText">로그인을 환영합니다.</item>
+        <item id="landingHelpModalHead">반가워요!</item>
+        <item id="landingHelpModalText">감사합니다.</item>
+
+        <!-- LOCAL DATA COLLECTION -->  
+        <item id="localHeader">Offline Q-sort Control Panel</item>
+        <item id="partIdText">Participant Name</item>
+        <item id="usercodeText">Usercode</item>
+        <item id="localStartButtonText">Start Q-sort</item>
+        <item id="localDeleteButtonText">Delete</item>
+        <item id="localDownloadButtonText">Save Q-sort Data to Disk</item>
+        <item id="storedQsortsHeaderText">Stored Q-sorts</item>
+        <item id="localDeleteModalHead">Delete Data Stored in Browser?</item>
+        <item id="localDeleteModalText">This will delete the particpant Q-sort data that is currently stored in the browser. You would usually only do this when you are starting a new project.{{{br}}}{{{br}}}{{{b}}}CAUTION - Deleted data cannot be recovered.{{{/b}}} {{{br}}}{{{br}}} {{{center}}}{{{/center}}}</item>
+        <item id="localParticipantsText">Participants</item>
+        <item id="localSaveBeforeDeleteModalHeader">Delete Disabled</item>
+        <item id="localSaveBeforeDeleteModalText">Save Q sort Data to Disk before deleting.</item>
+        <item id="localSaveDataButton">Save Participant Data to Browser Memory</item>
+        <item id="localSubmitSuccessModalHeader">Success</item>
+        <item id="localSubmitSuccessModalText">Participant Q sort data have been succesfully saved to browser memory</item>
+        <item id="returnToLocalPanelButtonText">Return to Control Panel</item>
+
+        <!-- PRESORT: rough sorting into three piles (leave blank to skip popup)-->
+        <item id="titleBarText">정렬하기</item>
+        <item id="presortAgreement">나랑 많이 비슷해요</item>
+        <item id="presortStatements">문항</item>
+        <item id="presortNeutral">그냥 저냥</item>
+        <item id="presortDisagreement">나랑 거리가 있어요</item>
+        <item id="presortModalHead">¼ 단계</item>
+        <item id="presortModalText">다음 진술을 주의 깊게 읽고 세 가지 더미로 나눕니다. 동의하지 않는 경향이 있는 진술 더미, 동의하는 경향이 있는 카드 더미, 나머지 더미. 나중에 변경할 수 있습니다.{{{br}}}{{{br}}}이 지침을 다시 읽으려면 왼쪽 하단 모서리에 있는 도움말 버튼을 클릭하십시오.</item>
+        <item id="presortPreventNavModalHead">네비게이션 사용 안하기</item>
+        <item id="presortPreventNavModalText">다음 단계로 이동하기 전에 예비 정렬을 완료하십시오.</item>
+        <item id="presortFinishedModalHead">예비 분류 완료</item>
+        <item id="presortFinishedModalText">이 단계를 완료했습니다. 다음 단계로 이동하려면 페이지 오른쪽 하단의 &quot;계속&quot; 버튼을 클릭하십시오.</item>
+
+        <!-- SORT: sorting (leave blank to skip popup) -->
+        <item id="sortHelpModalHead">2/4 단계</item>
+        <item id="sortHelpModalText">이 단계에서는 문을 그리드 패턴으로 정렬하십시오. 가장 동의하는 진술은 그리드의 맨 오른쪽에 배치하고 가장 동의하지 않는 진술은 맨 왼쪽에 배치해야 합니다. 이 단계에서 카드를 정렬하는 방법에 대한 자세한 내용은 비디오를 시청하십시오.</item>
+        <item id="sortAgreement">나랑 정말 비슷해요</item>
+        <item id="sortDisagreement">나랑 거리가 있어요</item>
+        <item id="condOfInst">나랑 거리가 있는것 부터 나랑 정말 비슷한것 까지, 좌측에서 우측으로 정렬해주세요.</item>
+        <item id="sortingCompleteModalHead">소팅 완료</item>
+        <item id="sortingCompleteModalText">초기 정렬을 완료했습니다. 잠시 시간을 내어 카드 배치를 확인하십시오.{{{br}}}{{{br}}}배치에 만족하면 다음을 클릭하십시오. {{{b}}}파란색 &quot;계속&quot; 버튼{{{/b}}} 화면 오른쪽 하단에서 다음 단계로 이동합니다.</item>
+        <item id="sortPreventNavModalHead">네비게이션 사용 안하기</item>
+        <item id="sortPreventNavModalText">다음 단계로 이동하기 전에 그리드 정렬을 완료하십시오.</item>
+        <item id="sortOverloadedColumnModalHead">네비게이션 사용 안하기</item>
+        <item id="sortOverloadedColumnModalText">열 중 하나에 카드가 너무 많습니다(주황색 윤곽선과 점선 테두리가 있음). 모든 열의 번호가 정확하도록 카드의 위치를 ​​조정하십시오.</item>
+
+        <!-- POSTSORT: comments - only displayed if showStep3 = true -->
+        <item id="postsortHeader"></item>
+        <item id="postsortInstructions"></item>
+        <item id="placeholder"></item>
+        <item id="postsortAgreement"></item>
+        <item id="postsortDisagreement"></item>
+        <item id="postsortModalHead"></item>
+        <item id="postsortModalText"></item>
+        <item id="postsortPreventNavModalHead"></item>
+        <item id="postsortPreventNavModalText"></item>
+        <item id="postsortBackButtonText"></item>
+
+        <!-- SURVEY: Additional questions, only displayed if showStep4 == true -->
+        <item id="surveyHeader"></item>
+        <item id="surveyModalHead"></item>
+        <item id="surveyModalText"></item>
+        <item id="surveyPreventNavModalHead"></item>
+        <item id="surveyPreventNavModalText"></item>
+       
+        <!-- SUBMIT -->
+        <item id="btnTransfer">Submit Data</item>
+        <item id="transferHead">마지막 단계</item>
+        <item id="transferTextAbove">{{{h1}}}제출 준비 완료{{{/h1}}}{{{br}}}{{{br}}} {{{h2}}}결과를 전송하려면 &quot;데이터 제출&quot; 버튼을 클릭하십시오.{{{/h2}}}</item>
+        <item id="transferTextBelow">제출 확인 메시지가 나타나지 않는 경우,{{{br}}}몇 분 정도 기다린 후 제출 버튼을 다시 클릭하십시오.</item>
+        <item id="transferOkModalHeader">성공 - 데이터가 서버로 전송되었습니다.</item>   
+        <item id="transferOkModalText">감사합니다. 고생하셨어요.</item>
+        <item id="transferFailModalHeader">서버 연결 실패</item>   
+        <item id="transferFailModalText">잠시 후에 다시 시도해 주세요.</item>   
+        <item id="fallbackMessage">데이터 전송에 실패했습니다. 결과를 다운로드하여 hae@gyung.me 에 첨부 파일로 이메일로 보내주십시오. 감사합니다</item>   
+        <item id="btnDownload">다운로드</item>   
+        <item id="goodbyeMessage">{{{div}}}감사합니다{{{/div}}} {{{br /}}}{{{div}}}이제 이 창을 닫아도 되는 자유를 얻으셨습니다.{{{/div}}}</item>   
+
+        <!-- EMAIL -->
+        <item id="btnTransferEmail">undefined</item>
+        <item id="clipboardResults">undefined</item>  
+        <item id="clipboardEmail">undefined</item>  
+        <item id="copiedText">undefined</item>  
+        <item id="copyTextError">undefined</item>  
+        <item id="defaultEmailClientFail">undefined</item>   
+        <item id="emailMessage1">undefined</item>
+
+        <!-- LINKING -->
+        <item id="linkedProjectFallbackMessage"></item>   
+         <item id="linkedProjectBtnMessage"></item>   
+
+
+   </language>
