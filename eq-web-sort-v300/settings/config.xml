@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-   <config version="3.0" htmlParse="false">
+   <config version="1.0" htmlParse="false">
 
    <!-- GENERAL SETTINGS -->
    <!-- "setupTarget" options: firebase, local, email, or sheets -->
-   <item id="studyTitle">i'm in my minds</item> 
+   <item id="studyTitle">My_Q_project</item> 
    <item id="databaseOptions">Include_Google_Options</item>
-   <item id="setupTarget">sheets</item>
+   <item id="setupTarget">email</item>
    <!-- STEIN -->
-   <item id="steinApiUrl">https://api.steinhq.com/v1/storages/65928f984ba3a03296289c1e</item>
+   <item id="steinApiUrl">https://</item>
    <!-- EMAIL -->
    <item id="emailAddress">ken.q.tools@gmail.com</item>  
    <item id="emailSubject">EQ Websort Results</item>  
    <!-- SECOND PROJECT -->
    <item id="linkToSecondProject">false</item> 
-   <item id="secondProjectUrl">http://</item> 
+   <item id="secondProjectUrl">https://</item> 
    <!-- OTHER GENERAL OPTIONS -->
    <item id="shuffleCards">true</item>
    <item id="headerBarColor">#337ab7</item>
@@ -22,7 +22,7 @@
 
    <!-- ACCESS -->
    <!-- options: anonymous, partId-access, partId, access -->
-   <item id="initialScreen">partId</item>
+   <item id="initialScreen">anonymous</item>
    <item id="accessCode">demo</item>
 
    <!-- LEGACY DEFAULTS (do not change these)-->
@@ -49,14 +49,13 @@
    <item id="minCardHeight">120</item>
    <item id="setMinCardHeight">true</item>
    <item id="setDefaultFontSizeSort">true</item>
-   <item id="sortDirection">negative</item> 
-
+   <item id="sortDirection">positive</item> 
 
    <!-- POSTSORT -->
    <item id="showPostsort">true</item>
    <item id="showSecondPosColumn">false</item>
-   <item id="showSecondNegColumn">true</item>
-   <item id="showBackButton">false</item>
+   <item id="showSecondNegColumn">false</item>
+   <item id="showBackButton">true</item>
    <item id="postsortCommentsRequired">true</item>
 
 
