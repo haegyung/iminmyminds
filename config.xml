@@ -10,8 +10,8 @@
    <!-- STEIN -->
    <item id="steinApiUrl">https://api.steinhq.com/v1/storages/65928f984ba3a03296289c1e</item>
    <!-- EMAIL -->
-   <item id="emailAddress">hae@gyung.me</item>  
-   <item id="emailSubject">FindMyResults</item>  
+   <item id="emailAddress">ken.q.tools@gmail.com</item>  
+   <item id="emailSubject">EQ Websort Results</item>  
    <!-- SECOND PROJECT -->
    <item id="linkToSecondProject">false</item> 
    <item id="secondProjectUrl">http://</item> 
@@ -23,7 +23,7 @@
    <!-- ACCESS -->
    <!-- options: anonymous, partId-access, partId, access -->
    <item id="initialScreen">partId</item>
-   <item id="accessCode">false</item>
+   <item id="accessCode">demo</item>
 
    <!-- LEGACY DEFAULTS (do not change these)-->
    <item id="setDefaultFontSize">true</item>
