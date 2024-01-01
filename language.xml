@@ -14,9 +14,8 @@
         <item id="btnNext">계속</item>
 
         <!-- LANDING SCREEN -->
-        <item id="landingHead">내 마음속 나</item>
-        <item id="welcomeText">{{{h2}}}내 마음속 나{{{/h2}}}{{{br/}}}{{{br}}}
-{{{p}}}내 마음속에 나는 어떤 문장하고 닮았나요?{{{/p}}}</item>
+        <item id="landingHead"></item>
+        <item id="welcomeText"></item>
 
         <!-- LANDING -> ACCESS CONTROL - only displayed if access is restricted -->
         <item id="accessCodeText">Access Code</item>
@@ -27,8 +26,8 @@
         <item id="partIdWarning">등록되지 않은 이름입니다.</item>
         <item id="loginHeaderText">로그인하기</item>
         <item id="loginWelcomeText">로그인을 환영합니다.</item>
-        <item id="landingHelpModalHead">반가워요!</item>
-        <item id="landingHelpModalText">감사합니다.</item>
+        <item id="landingHelpModalHead"></item>
+        <item id="landingHelpModalText"></item>
 
         <!-- LOCAL DATA COLLECTION -->  
         <item id="localHeader">Offline Q-sort Control Panel</item>
@@ -59,7 +58,7 @@
         <item id="presortPreventNavModalHead">네비게이션 사용 안하기</item>
         <item id="presortPreventNavModalText">다음 단계로 이동하기 전에 예비 정렬을 완료하십시오.</item>
         <item id="presortFinishedModalHead">예비 분류 완료</item>
-        <item id="presortFinishedModalText">이 단계를 완료했습니다. 다음 단계로 이동하려면 페이지 오른쪽 하단의 &quot;계속&quot; 버튼을 클릭하십시오.</item>
+        <item id="presortFinishedModalText">이 단계를 완료했습니다. 다음 단계로 이동하려면 페이지 오른쪽 하단의 &amp;quot;계속&amp;quot; 버튼을 클릭하십시오.</item>
 
         <!-- SORT: sorting (leave blank to skip popup) -->
         <item id="sortHelpModalHead">2/4 단계</item>
@@ -107,13 +106,13 @@
         <item id="goodbyeMessage">{{{div}}}감사합니다{{{/div}}} {{{br /}}}{{{div}}}이제 이 창을 닫아도 되는 자유를 얻으셨습니다.{{{/div}}}</item>   
 
         <!-- EMAIL -->
-        <item id="btnTransferEmail">undefined</item>
-        <item id="clipboardResults">undefined</item>  
-        <item id="clipboardEmail">undefined</item>  
-        <item id="copiedText">undefined</item>  
-        <item id="copyTextError">undefined</item>  
-        <item id="defaultEmailClientFail">undefined</item>   
-        <item id="emailMessage1">undefined</item>
+        <item id="btnTransferEmail"></item>
+        <item id="clipboardResults"></item>  
+        <item id="clipboardEmail"></item>  
+        <item id="copiedText"></item>  
+        <item id="copyTextError"></item>  
+        <item id="defaultEmailClientFail"></item>   
+        <item id="emailMessage1"></item>
 
         <!-- LINKING -->
         <item id="linkedProjectFallbackMessage"></item>   
